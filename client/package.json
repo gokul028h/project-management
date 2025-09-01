@@ -24,7 +24,7 @@
     "gantt-task-react": "^0.3.9",
     "lodash": "^4.17.21",
     "lucide-react": "^0.424.0",
-    "next": "14.2.5",
+    "next": "^14.2.32",
     "numeral": "^2.0.6",
     "react": "^18",
     "react-dnd": "^16.0.1",
@@ -47,7 +47,7 @@
     "postcss": "^8",
     "prettier": "^3.3.3",
     "prettier-plugin-tailwindcss": "^0.6.5",
-    "react-devtools": "^6.1.5",
+    "react-devtools": "^1.0.5",
     "tailwind-merge": "^2.4.0",
     "tailwindcss": "^3.4.1",
     "typescript": "5.9.2"
